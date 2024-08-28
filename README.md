@@ -35,7 +35,7 @@ Before you begin, make sure you have the following installed:
 2. Make sure you've enabled the Geocoding API and Maps JavaScript API on your Google Cloud Platform account.
 
 ## Running the App
-
+  
 ### Android
 
 To run the app on an Android emulator or device:
